@@ -1,0 +1,17 @@
+{
+    "name": "libschro",
+    "description": "Dirac video decoder",
+    "filters":["diracdec"],
+    "help": "This filter decodes raw Dirac elementary streams using schroedinger.",
+    "support": [
+        "video"
+    ],
+    "sources":"https://bevara.ddns.net/sources/libschro.accessor",
+    "filter_source":{
+        "diracdec" : "dec_dirac.c"
+    },
+    "extension":{
+      "drc" : "video"
+    },
+    "licence_required":false
+}
