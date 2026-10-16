@@ -1,5 +1,6 @@
 {
     "name": "libschro",
+    "version": "1.0.1",
     "description": "Dirac video decoder",
     "filters":["diracdec"],
     "help": "This filter decodes raw Dirac elementary streams using schroedinger.",
