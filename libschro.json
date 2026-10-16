@@ -13,7 +13,6 @@
     "extension":{
       "drc" : "video"
     },
-    "licence_required":false,
     "using": ["solver_1"],
     "runtime": {
         "diracdec": {
@@ -28,5 +27,10 @@
                 }
             ]
         }
+    },
+    "patents": {
+        "status": "royalty-free",
+        "note": "Dirac, royalty-free (BBC)",
+        "checked": "2026-10-16"
     }
 }
