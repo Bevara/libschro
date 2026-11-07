@@ -14,7 +14,7 @@
     "extension":{
       "drc" : "video"
     },
-    "using": ["mm_solver_1.0.1", "mm_solver_1.0.2"],
+    "using": ["mm_solver_1.0.1", "mm_solver_1.0.2", "mm_solver_1.0.3", "mm_solver_1.0.4"],
     "runtime": {
         "diracdec": {
             "outputs": [
